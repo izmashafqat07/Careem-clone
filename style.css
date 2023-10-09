@@ -418,3 +418,18 @@ bottom: 490px;
 .footer-container{
 margin-top: 200px !important;
 }
+.first-row,.second-row,.third-row,.fourth-row,.fifth-row,.sixth-row{
+  /* border: 2px solid red !important; */
+  padding: 10px;
+}
+
+
+.col-md-2{
+  /* border: 2px solid green; */
+}
+.appdownloads{
+  transition: transform 0.3s;
+}
+.appdownloads:hover{
+  transform: translateY(-10px);
+}
